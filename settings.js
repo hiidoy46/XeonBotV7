@@ -10,12 +10,12 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['923470027813'] //ur owner number
-global.ownernomer = "923470027813" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
+global.owner = ['916000198519'] //ur owner number
+global.ownernomer = "916000198519" //ur owner number2
+global.ownername = "🦄Dream Guy Hridoy" //ur owner name
 global.ytname = "YT: xIKRATOSx" //ur yt chanel name
 global.socialm = "GitHub: xIKRATOSx" //ur github or insta name
-global.location = "Pakistan, Punjab, Gujranwala" //ur location
+global.location = "Gujranwalanwala, GujranwaGujranwalaocation
 
 //new
 global.botname = "Cheems Bot MD V7"
